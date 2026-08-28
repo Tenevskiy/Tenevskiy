@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4d4d4d,100:ffffff&height=180&section=header&text=User&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4d4d4d,100:ffffff&height=180&section=header&text=Tenevskiy&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 </div>
 
 <div align="center">
-
-# Tenevskiy
 
 Занимаюсь программированием, OSINT и кибербезопасностью.
 Интересуюсь разведкой по открытым источникам, анализом угроз и разработкой.
