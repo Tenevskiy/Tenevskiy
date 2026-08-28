@@ -35,21 +35,6 @@
 - **Cybersecurity** — анализ уязвимостей, сетевая безопасность
 - **Программирование** — C/C++, C#, Python, Bash, немного веб-разработки (fullstack)
 
-<br>
-
-<div align="center">
-  <img src="assets/sakura.svg" width="420"/>
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=User&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=User&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" width="40%" />
-</div>
-
-<br>
-
 <div align="center">
   <img src="assets/cat.svg" width="160"/>
 </div>
