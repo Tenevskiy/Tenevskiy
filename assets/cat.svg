@@ -1,0 +1,41 @@
+<svg width="260" height="260" viewBox="0 0 260 260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="260" height="260" fill="none"/>
+
+  <!-- tail -->
+  <path d="M195 200 C230 195 245 160 225 130 C215 115 210 130 218 140 C230 155 220 175 195 182"
+        fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- body -->
+  <path d="M70 210 C60 170 65 140 90 120 C85 105 90 90 100 82
+           C108 92 112 100 112 108
+           C122 100 135 98 148 102
+           C150 92 158 82 168 78
+           C172 90 172 100 168 110
+           C185 122 195 145 190 175
+           C188 195 175 208 160 212
+           Z"
+        fill="none" stroke="#ffffff" stroke-width="6" stroke-linejoin="round"/>
+
+  <!-- ears -->
+  <path d="M92 95 L84 70 L108 84 Z" fill="none" stroke="#ffffff" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M150 90 L160 65 L172 88 Z" fill="none" stroke="#ffffff" stroke-width="6" stroke-linejoin="round"/>
+
+  <!-- face details -->
+  <circle cx="112" cy="118" r="4" fill="#ffffff"/>
+  <circle cx="150" cy="116" r="4" fill="#ffffff"/>
+  <path d="M128 128 L134 128 L131 133 Z" fill="#ffffff"/>
+  <path d="M131 133 C126 140 118 140 112 137" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M131 133 C136 140 144 140 150 137" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- whiskers -->
+  <g stroke="#ffffff" stroke-width="1.5" opacity="0.8">
+    <line x1="60" y1="120" x2="100" y2="124"/>
+    <line x1="58" y1="132" x2="100" y2="132"/>
+    <line x1="162" y1="124" x2="200" y2="118"/>
+    <line x1="162" y1="132" x2="202" y2="130"/>
+  </g>
+
+  <!-- front legs -->
+  <path d="M100 200 L100 235" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/>
+  <path d="M150 205 L152 235" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/>
+</svg>
